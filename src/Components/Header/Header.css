@@ -1,6 +1,6 @@
-section{
-    height: 500px;
-}
+
+    
+
 .header{
     background-image: url(../../bgimage/bannerbackground.png);
     background-repeat: no-repeat; 
@@ -8,11 +8,31 @@ section{
     background-size: 110%;
     text-align: center;
     background-position: center;
-   
-   
+   padding: 15% 25%;
+   height: 500px;
 }
-.input-group{
- margin-top: 400px;
+.foods{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+nav{
+    line-height: 40px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+    padding: 5px;
+    
+ 
+}
+nav a:hover{
+color: pink;
+    
 }
 
 .body{
