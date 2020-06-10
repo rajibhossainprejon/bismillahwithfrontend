@@ -9,7 +9,7 @@ const Foods = (props) => {
         <div className='products'>
        <div className="card" style={{width: "20rem" , border: "none" }}>
  <div className="imageOfFoods">
- <img className="card-img-top" src={img} alt="Card image cap"/>
+ <img className="card-img-top" src={require(`../../${img}`)} alt="Card image cap"/>
  </div>
   <div className="card-body" style={{height: "8rem"}}>
     <p className="card-text">Price: ${id}</p>

@@ -1,5 +1,5 @@
 
-var images=["../Breakfast/breakfast1.png","../Breakfast/breakfast2.png","../Breakfast/breakfast3.png","../Breakfast/breakfast4.png","../Breakfast/breakfast5.png","../Breakfast/breakfast6.png"];
+var images=["Breakfast/breakfast1.png","Breakfast/breakfast2.png","Breakfast/breakfast3.png","Breakfast/breakfast4.png","Breakfast/breakfast5.png","Breakfast/breakfast6.png"];
 var data=[{ "img":images[0],
       "userId": 1,
       "id": 1,
